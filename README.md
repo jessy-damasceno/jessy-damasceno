@@ -2,7 +2,7 @@
 
 ## Hi! I am Jessy Damasceno, Front-end Web Development and Trybe's Student (Back-end developer in progress)!
 
-URL:https://www.codewars.com/users/jessybass/badges/large
+<img src="https://www.codewars.com/users/jessybass/badges/large" alt="codewars badge" />
 
 <div>
   <a href="https://github.com/jessy-damasceno">
