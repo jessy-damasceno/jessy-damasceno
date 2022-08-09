@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-## Hi! I am Jessy Damasceno, Web Development Student at Trybe!
+## Hi! I am Jessy Damasceno, Front-end Web Development and Trybe's Student (Back-end developer in progress)!
+
+URL:https://www.codewars.com/users/jessybass/badges/large
+
 <div>
   <a href="https://github.com/jessy-damasceno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessy-damasceno&show_icons=true&include_all_commits=true&count_private=true"/>
