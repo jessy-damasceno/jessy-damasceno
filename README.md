@@ -9,7 +9,7 @@
 ### Skills:
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessy-damasceno&show_icons=true&include_all_commits=true&    count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessy-damasceno"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessy-damasceno&layout=compact&langs_count=7"/>
 </div>
 <div style="display: inline_block" align="center"><br>
@@ -32,6 +32,10 @@
 </div>
   
   ##
+
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jessy-damasceno&theme=highcontrast&hide_border=true" />
+ </div>
  
 <div> 
   <a href="https://www.linkedin.com/in/jessy-damasceno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
