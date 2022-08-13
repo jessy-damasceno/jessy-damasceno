@@ -1,10 +1,22 @@
-### Hi there 👋
+<h1 align="center">👋 Hi, I'm Jessy Damasceno</h1>
 
-## Hi! I am Jessy Damasceno, Front-end Web Development and Trybe's Student (Back-end developer in progress)!
+<h3 align="center">I'm from Bahia, Brazil, I'm training to be a Full-Stack Developer and I'm currently looking for opportunities</h3>
+
+- 🤔 I’m currently studying at **[Trybe](https://www.betrybe.com)**
+- 🔭 I'm currently looking for opportunities to change my career as a **developer**
+- 🌱 I’m currently learning **Back-End: MySQL**
+- 💬 Ask me about **React, Redux, Jest, RTL, CSS**
+- 👾 My hobbies are playing games and watching movies
+
+<br>
 
 <div align="center">
   <img align="center" src="https://www.codewars.com/users/jessybass/badges/large" alt="codewars badge" />
 </div>
+
+<h3 align="left">Connect with me:</h3>
+
+
 
 ### Skills:
 
