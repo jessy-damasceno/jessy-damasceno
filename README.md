@@ -14,8 +14,7 @@
   <img align="center" src="https://www.codewars.com/users/jessybass/badges/large" alt="codewars badge" />
 </div>
 
-<h3 align="left">Connect with me:</h3>
-
+<br>
 
 
 ### Skills:
@@ -43,16 +42,18 @@
   <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 </div>
   
-  ##
+---
 
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jessy-damasceno&theme=highcontrast&hide_border=true" />
  </div>
  
+<h3 align="left">Connect with me:</h3>
+ 
 <div> 
-  <a href="https://www.linkedin.com/in/jessy-damasceno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jessy-damasceno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:jessy_bass@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div>
-
 
 <!--
 **jessy-damasceno/jessy-damasceno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
