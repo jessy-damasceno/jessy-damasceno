@@ -4,7 +4,7 @@
 
 - 🤔 I’m currently studying at **[Trybe](https://www.betrybe.com)**
 - 🔭 I'm currently looking for opportunities to change my career as a **developer**
-- 🌱 I’m currently learning **Back-End: MySQL**
+- 🌱 I’m currently learning **TS, POO and SOLID**
 - 💬 Ask me about **React, Redux, Jest, RTL, CSS**
 - 👾 My hobbies are playing games and watching movies
 
@@ -36,6 +36,8 @@
   <img align="center" alt="tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="materialUi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
   <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 </div>
 
 <br>
