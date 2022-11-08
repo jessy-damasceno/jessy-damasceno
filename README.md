@@ -4,7 +4,7 @@
 
 - 🤔 I’m currently studying at **[Trybe](https://www.betrybe.com)**
 - 🔭 I'm currently looking for opportunities to change my career as a **developer**
-- 🌱 I’m currently learning **TS, POO and SOLID**
+- 🌱 I’m currently learning **TS, POO, SOLID and MongoDB**
 - 💬 Ask me about **React, Redux, Jest, RTL, CSS**
 - 👾 My hobbies are playing games and watching movies
 
