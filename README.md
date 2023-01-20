@@ -5,7 +5,7 @@
 - 🤔 I’m currently studying at **[Trybe](https://www.betrybe.com)**
 - 🔭 I'm currently looking for opportunities to change my career as a **developer**
 - 🌱 I’m currently learning **JAVA, SOLID, Python and CS**
-- 💬 Ask me about **React, Redux, Jest, RTL, CSS**
+- 💬 Ask me about **JS, TS, POO and coding best practices**
 - 👾 My hobbies are playing games and watching movies
 
 <br>
